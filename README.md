@@ -1,6 +1,7 @@
 <div id="title" align=center>
 
 
+
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
 ![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
@@ -13,9 +14,15 @@
 
 ---
 
-关于项目源码的相关问题可以联系我们交流： **【QQ 979748385 QQ群 601569450】** 
+**注意事项：**
 
-爱毕设官网(点击在线搜索或查看视频)： [http://www.jsxs1.cn](http://www.jsxs1.cn)
+以上源码均不完整，索要完整源码和数据库联系 **【QQ 979748385 QQ群 601569450】** 回复项目编号即可获取！！
+
+---
+
+[![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
+
+(**`点击在线搜索/查看项目视频`**)： [http://www.jsxs1.cn](http://www.jsxs1.cn)
 
 ![6449464bad613fd29c0dff81b5801c1](https://github.com/hjsdjko/hjsdjko/assets/120558513/09704eae-2d88-4f15-9e77-d82df3acd18f)
 
